@@ -1,0 +1,1 @@
+{"result":{"Terbaru":"2015-04-10T00:00:00Z","Tua":"2009-06-02T00:00:00Z","Datedifference":2138}}
